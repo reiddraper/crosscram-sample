@@ -14,4 +14,4 @@
                                                              bot-a/bot
                                                              bot-b/bot
                                                              10)))))]
-    (println (str "Winner Stats:" winners))))
+    (println (str "Winner Stats: " winners))))
